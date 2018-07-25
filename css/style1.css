@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body {
+    background-color: #e6f2ff;
+    color: #000;
+    font: 14px/1.3 Arial,sans-serif;
+}
+
+.panel .panel-default {
+	background-color: #fff;
+}
+
+.panel .panel-heading {
+	background-color: #4d1a00;
+	color: #fff;
+}
+
+#beautySalonUI .row {
+	margin: 5px 10px 15px 10px;
+}
